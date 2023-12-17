@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Raleway&family=Roboto+Mono:wght@300;400&display=swap');
+body{
+    background-color: blanchedalmond;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.userChoice span{
+    font-size: 1em;
+}
+
+.userChoice{
+    display:inline-block;
+    margin-left: 33%;
+    margin-right: 33%;
+}
+
+.userChoice span, .userChoice p, .userChoice input{
+    display: block;
+}
+
+#submit{
+    display: block;
+    text-align: center;
+}
+
+#pcChoiceH2, #conclusion{
+    opacity: 0%;
+}
+
+#conclusion{
+    text-align: center;
+    font: 20px bold;
+}
