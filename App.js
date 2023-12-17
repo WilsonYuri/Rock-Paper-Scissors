@@ -1,4 +1,4 @@
-const submitBtn = document.getElementById("submit");
+        const submitBtn = document.getElementById("submit");
         const rockHTML = document.getElementById("rockSelector");
         const paperHTML = document.getElementById("paperSelector");
         const scissorsHTML = document.getElementById("scissorsSelector");
