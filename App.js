@@ -16,7 +16,7 @@
                 return "scissors";
             }
             else{
-                return null;
+                return 'Select a weapon';
             }
         }
 
