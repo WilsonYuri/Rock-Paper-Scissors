@@ -18,7 +18,7 @@ In order to contribute to this repository, follow the steps:
 1. Fork the project.
 2. Create a topic branch from the master branch. `git checkout -b <branch_name>`
 3. Make some commits to improve the project. `git commit -m '<mensagem_commit>'`
-4. Push this branch to your GitHub project. `git push origin <nome_do_projeto> / <local>`
+4. Push this branch to your GitHub project. `git push origin <project_name> / <local>`
 5. Open a Pull Request on GitHub.
 
 As an alternative, consult the GitHub documentation [How to create a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
